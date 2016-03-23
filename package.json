@@ -1,0 +1,25 @@
+{
+  "name": "hackathon-march-16",
+  "version": "1.0.0",
+  "description": "A study in node modules made on a hackaton at Qlik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatsNord/hackathon-march-16.git"
+  },
+  "keywords": [
+    "Hackathon",
+    "nodejs",
+    "module",
+    "learning"
+  ],
+  "author": "Mats Nord <nord.mats@gmail.com> (https://github.com/MatsNord)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatsNord/hackathon-march-16/issues"
+  },
+  "homepage": "https://github.com/MatsNord/hackathon-march-16#readme"
+}
