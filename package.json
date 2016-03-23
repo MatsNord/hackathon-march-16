@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin": {
-      "qroc": "index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MatsNord/hackathon-march-16.git"
