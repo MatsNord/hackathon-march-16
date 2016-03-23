@@ -1,5 +1,5 @@
 {
-  "name": "cvd",
+  "name": "qroc",
   "version": "1.0.0",
   "description": "A study in node modules made on a hackaton at Qlik",
   "main": "index.js",
