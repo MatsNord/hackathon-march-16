@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Copy and renaming a file from a package <source> to another package <destination>
  * @param {string} source package

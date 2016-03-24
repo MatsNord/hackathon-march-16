@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A study in node modules made on a hackaton at Qlik",
   "main": "index.js",
+  "bin" : "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
